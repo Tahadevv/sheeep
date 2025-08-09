@@ -1,3 +1,3 @@
 # sheeep
 
-export quality
+export quality x2
